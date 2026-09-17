@@ -10,5 +10,18 @@
 --color-block: #e8ddd5;
 
 }
-font-family: 'Inter', sans-serif;
-font-family: 'Kalam', handwriting;
+body {
+    box-sizing: border-box;
+margin: 0;    
+}
+
+#hero-image-wrapper {
+    display: flex;
+    width: 100vw;
+}
+
+#hero-image-left-top {
+    width: 50%;
+    height: auto;
+    
+}
