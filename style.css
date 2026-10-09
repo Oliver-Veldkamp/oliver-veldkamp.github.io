@@ -20,12 +20,23 @@ body {
  margin: 0;    
 }
 
+#hero-section {
+    background-color: lightgray;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6em;
+    margin-top: 100px;
+}
 #hero-image-wrapper {
+    background-color: aqua;
     display: flex;
 justify-content: center;
 }
 
 .hero-image-wrap {
+    
     display: flex;
 justify-content: center;
 
